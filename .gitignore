@@ -1,0 +1,11 @@
+node_modules/
+.pgdata/
+.pglog
+.env
+.env.*
+!.env.example
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+data/research/

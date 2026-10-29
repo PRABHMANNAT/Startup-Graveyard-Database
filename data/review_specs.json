@@ -1,0 +1,153 @@
+[
+  [
+    "99dresses",
+    "https://medium.com/@nikkidurkin99/my-startup-failed-and-this-is-what-it-feels-like-c5d64b3ae96b",
+    "verified_failure",
+    "Founder Nikki Durkin describes the end of 99dresses and failed attempts to sustain the business.",
+    {
+      "founders": "Nikki Durkin",
+      "shutdown_year": 2014,
+      "primary_failure_reason": "Founder reports losing traction and product-market fit alongside team and financing difficulties."
+    },
+    [
+      "market_need",
+      "team",
+      "capital"
+    ]
+  ],
+  [
+    "Dinnr",
+    "https://medium.com/@michalbohanes/seven-lessons-i-learned-from-the-failure-of-my-first-startup-dinnr-c166d1cfb8b8",
+    "verified_failure",
+    "Founder explicitly dates the decision to end Dinnr to 12 January 2014.",
+    {
+      "founders": "Michal Bohanes",
+      "shutdown_date": "2014-01-12",
+      "shutdown_year": 2014,
+      "city": "London",
+      "product_description": "Same-day delivery of pre-measured cooking ingredients and recipe instructions.",
+      "primary_failure_reason": "Insufficient customer demand and repeat purchasing to sustain the service.",
+      "warning_signs": "Founder reports approximately one daily order after 15 months.",
+      "lessons_learned": "Founder argues that stated survey interest did not establish actual purchasing demand."
+    },
+    [
+      "market_need",
+      "unit_economics"
+    ]
+  ],
+  [
+    "Devver",
+    "https://devver.wordpress.com/2010/04/26/lessons-learned/",
+    "verified_failure",
+    "Company blog explicitly describes shutting down and reflects on the experience.",
+    {
+      "shutdown_year": 2010,
+      "product_description": "Developer tools including a Ruby test accelerator and Caliper.",
+      "primary_failure_reason": "Team reports prioritizing product building over customer development.",
+      "lessons_learned": "Test a simpler product with paying customers before extended development."
+    },
+    [
+      "market_need"
+    ]
+  ],
+  [
+    "Fieldbook",
+    "https://medium.com/the-fieldbook-blog/fieldbook-is-shutting-down-db4d2b3eec2d",
+    "verified_failure",
+    "Company publication explicitly announces the closure of Fieldbook and CSVshare.",
+    {
+      "shutdown_year": 2018
+    },
+    []
+  ],
+  [
+    "Arivale",
+    "https://www.geekwire.com/2019/scientific-wellness-startup-arivale-closes-abruptly-tragic-end-vision-transform-personal-health/",
+    "verified_failure",
+    "News report confirms abrupt closure of Arivale; some work continued separately at ISB.",
+    {
+      "shutdown_year": 2019,
+      "product_description": "Genetic testing and personal health coaching.",
+      "customer_acquisition_issues": "Executive cited high customer acquisition cost as a factor in closure."
+    },
+    [
+      "acquisition"
+    ]
+  ],
+  [
+    "Aria Insights",
+    "https://www.therobotreport.com/aria-insights-cyphy-works-shuts-down/",
+    "verified_failure",
+    "Trade publication reports that Aria Insights, formerly CyPhy Works, had shut down.",
+    {
+      "shutdown_year": 2019,
+      "city": "Danvers",
+      "country": "United States",
+      "product_description": "Tethered drone technology."
+    },
+    []
+  ],
+  [
+    "Arrivo",
+    "https://www.theverge.com/2018/12/14/18128848/hyperloop-arrivo-furloughs-layoffs-money-trouble",
+    "verified_failure",
+    "Reporting based on employees and messages confirms cessation of operations.",
+    {
+      "shutdown_year": 2018,
+      "founded_year": 2017,
+      "city": "Los Angeles",
+      "country": "United States",
+      "product_description": "High-speed magnetic levitation transportation concept.",
+      "primary_failure_reason": "Employees attributed shutdown to inability to secure new funding."
+    },
+    [
+      "capital"
+    ]
+  ],
+  [
+    "PlayCafe",
+    "https://venturebeat.com/2009/04/29/10-lessons-from-a-failed-startup/",
+    "verified_failure",
+    "Founder postmortem discusses the failed PlayCafe venture; Zenodo records closing year 2009.",
+    {
+      "shutdown_year": 2009,
+      "primary_failure_reason": "Founder identifies marketing as the principal failure.",
+      "lessons_learned": "Measure acquisition costs and obtain marketing expertise early."
+    },
+    [
+      "acquisition"
+    ]
+  ],
+  [
+    "Vidme",
+    "https://medium.com/vidme/goodbye-for-now-120b40becafa",
+    "acquired",
+    "Shutdown announcement includes an explicit later update that Vidme was acquired by Giphy.",
+    {},
+    []
+  ],
+  [
+    "Take Eat Easy",
+    "https://medium.com/@chloeroose/the-right-words-to-say-goodbye-8a2218b32f92",
+    "candidate",
+    "Founder discusses restructuring and funding shortfall; this review alone does not establish final legal closure.",
+    {},
+    []
+  ],
+  [
+    "Dijiwan",
+    "https://oncletom.io/2014/why-our-startup-failed/",
+    "candidate",
+    "CTO reports bankruptcy protection in September 2012; legal dissolution not established by this review.",
+    {},
+    []
+  ],
+  [
+    "Sansaire",
+    "https://www.geekwire.com/2018/high-tech-cooking-startup-sansaire-shutting-ceasing-production-new-sous-vide-device/",
+    "candidate",
+    "Report announces a prospective 12-month wind-down; completed closure date requires follow-up.",
+    {},
+    []
+  ]
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "name": "99dresses",
+    "url": "https://medium.com/@nikkidurkin99/my-startup-failed-and-this-is-what-it-feels-like-c5d64b3ae96b",
+    "retrieved_at": "2026-10-30",
+    "http_status": 200,
+    "summary": "Founder Nikki Durkin describes the end of 99dresses and failed attempts to sustain the business."
+  },
+  {
+    "name": "Dinnr",
+    "url": "https://medium.com/@michalbohanes/seven-lessons-i-learned-from-the-failure-of-my-first-startup-dinnr-c166d1cfb8b8",
+    "retrieved_at": "2026-10-30",
+    "http_status": 200,
+    "summary": "Founder explicitly dates the decision to end Dinnr to 12 January 2014."
+  },
+  {
+    "name": "Devver",
+    "url": "https://devver.wordpress.com/2010/04/26/lessons-learned/",
+    "retrieved_at": "2026-10-30",
+    "http_status": 200,
+    "summary": "Company blog explicitly describes shutting down and reflects on the experience."
+  },
+  {
+    "name": "Fieldbook",
+    "url": "https://medium.com/the-fieldbook-blog/fieldbook-is-shutting-down-db4d2b3eec2d",
+    "retrieved_at": "2026-10-30",
+    "http_status": 200,
+    "summary": "Company publication explicitly announces the closure of Fieldbook and CSVshare."
+  },
+  {
+    "name": "Arivale",
+    "url": "https://www.geekwire.com/2019/scientific-wellness-startup-arivale-closes-abruptly-tragic-end-vision-transform-personal-health/",
+    "retrieved_at": "2026-10-30",
+    "http_status": 200,
+    "summary": "News report confirms abrupt closure of Arivale; some work continued separately at ISB."
+  },
+  {
+    "name": "Aria Insights",
+    "url": "https://www.therobotreport.com/aria-insights-cyphy-works-shuts-down/",
+    "retrieved_at": "2026-10-30",
+    "http_status": 200,
+    "summary": "Trade publication reports that Aria Insights, formerly CyPhy Works, had shut down."
+  },
+  {
+    "name": "Arrivo",
+    "url": "https://www.theverge.com/2018/12/14/18128848/hyperloop-arrivo-furloughs-layoffs-money-trouble",
+    "retrieved_at": "2026-10-30",
+    "http_status": 200,
+    "summary": "Reporting based on employees and messages confirms cessation of operations."
+  },
+  {
+    "name": "PlayCafe",
+    "url": "https://venturebeat.com/2009/04/29/10-lessons-from-a-failed-startup/",
+    "retrieved_at": "2026-10-30",
+    "http_status": 200,
+    "summary": "Founder postmortem discusses the failed PlayCafe venture; Zenodo records closing year 2009."
+  },
+  {
+    "name": "Vidme",
+    "url": "https://medium.com/vidme/goodbye-for-now-120b40becafa",
+    "retrieved_at": "2026-10-30",
+    "http_status": 200,
+    "summary": "Shutdown announcement includes an explicit later update that Vidme was acquired by Giphy."
+  },
+  {
+    "name": "Take Eat Easy",
+    "url": "https://medium.com/@chloeroose/the-right-words-to-say-goodbye-8a2218b32f92",
+    "retrieved_at": "2026-10-30",
+    "http_status": 200,
+    "summary": "Founder discusses restructuring and funding shortfall; this review alone does not establish final legal closure."
+  },
+  {
+    "name": "Dijiwan",
+    "url": "https://oncletom.io/2014/why-our-startup-failed/",
+    "retrieved_at": "2026-10-30",
+    "http_status": 200,
+    "summary": "CTO reports bankruptcy protection in September 2012; legal dissolution not established by this review."
+  },
+  {
+    "name": "Sansaire",
+    "url": "https://www.geekwire.com/2018/high-tech-cooking-startup-sansaire-shutting-ceasing-production-new-sous-vide-device/",
+    "retrieved_at": "2026-10-30",
+    "http_status": 200,
+    "summary": "Report announces a prospective 12-month wind-down; completed closure date requires follow-up."
+  }
+]

@@ -1,0 +1,225 @@
+[
+  {
+    "match_source": "zenodo",
+    "match_id": "212",
+    "name": "99dresses",
+    "url": "https://medium.com/@nikkidurkin99/my-startup-failed-and-this-is-what-it-feels-like-c5d64b3ae96b",
+    "status": "verified_failure",
+    "confidence": "high",
+    "reviewer": "Codex source-content review",
+    "reviewed_at": "2026-10-30",
+    "scope": "Historical operating venture; not legal-entity dissolution or current trademark status",
+    "summary": "Founder Nikki Durkin describes the end of 99dresses and failed attempts to sustain the business.",
+    "fields": {
+      "founders": "Nikki Durkin",
+      "shutdown_year": 2014,
+      "primary_failure_reason": "Founder reports losing traction and product-market fit alongside team and financing difficulties."
+    },
+    "categories": [
+      "market_need",
+      "team",
+      "capital"
+    ]
+  },
+  {
+    "match_source": "zenodo",
+    "match_id": "213",
+    "name": "Dinnr",
+    "url": "https://medium.com/@michalbohanes/seven-lessons-i-learned-from-the-failure-of-my-first-startup-dinnr-c166d1cfb8b8",
+    "status": "verified_failure",
+    "confidence": "high",
+    "reviewer": "Codex source-content review",
+    "reviewed_at": "2026-10-30",
+    "scope": "Historical operating venture; not legal-entity dissolution or current trademark status",
+    "summary": "Founder explicitly dates the decision to end Dinnr to 12 January 2014.",
+    "fields": {
+      "founders": "Michal Bohanes",
+      "shutdown_date": "2014-01-12",
+      "shutdown_year": 2014,
+      "city": "London",
+      "product_description": "Same-day delivery of pre-measured cooking ingredients and recipe instructions.",
+      "primary_failure_reason": "Insufficient customer demand and repeat purchasing to sustain the service.",
+      "warning_signs": "Founder reports approximately one daily order after 15 months.",
+      "lessons_learned": "Founder argues that stated survey interest did not establish actual purchasing demand."
+    },
+    "categories": [
+      "market_need",
+      "unit_economics"
+    ]
+  },
+  {
+    "match_source": "zenodo",
+    "match_id": "294",
+    "name": "Devver",
+    "url": "https://devver.wordpress.com/2010/04/26/lessons-learned/",
+    "status": "verified_failure",
+    "confidence": "high",
+    "reviewer": "Codex source-content review",
+    "reviewed_at": "2026-10-30",
+    "scope": "Historical operating venture; not legal-entity dissolution or current trademark status",
+    "summary": "Company blog explicitly describes shutting down and reflects on the experience.",
+    "fields": {
+      "shutdown_year": 2010,
+      "product_description": "Developer tools including a Ruby test accelerator and Caliper.",
+      "primary_failure_reason": "Team reports prioritizing product building over customer development.",
+      "lessons_learned": "Test a simpler product with paying customers before extended development."
+    },
+    "categories": [
+      "market_need"
+    ]
+  },
+  {
+    "match_source": "zenodo",
+    "match_id": "52",
+    "name": "Fieldbook",
+    "url": "https://medium.com/the-fieldbook-blog/fieldbook-is-shutting-down-db4d2b3eec2d",
+    "status": "verified_failure",
+    "confidence": "high",
+    "reviewer": "Codex source-content review",
+    "reviewed_at": "2026-10-30",
+    "scope": "Historical operating venture; not legal-entity dissolution or current trademark status",
+    "summary": "Company publication explicitly announces the closure of Fieldbook and CSVshare.",
+    "fields": {
+      "shutdown_year": 2018
+    },
+    "categories": []
+  },
+  {
+    "match_source": "zenodo",
+    "match_id": "9",
+    "name": "Arivale",
+    "url": "https://www.geekwire.com/2019/scientific-wellness-startup-arivale-closes-abruptly-tragic-end-vision-transform-personal-health/",
+    "status": "verified_failure",
+    "confidence": "high",
+    "reviewer": "Codex source-content review",
+    "reviewed_at": "2026-10-30",
+    "scope": "Historical operating venture; not legal-entity dissolution or current trademark status",
+    "summary": "News report confirms abrupt closure of Arivale; some work continued separately at ISB.",
+    "fields": {
+      "shutdown_year": 2019,
+      "product_description": "Genetic testing and personal health coaching.",
+      "customer_acquisition_issues": "Executive cited high customer acquisition cost as a factor in closure."
+    },
+    "categories": [
+      "acquisition"
+    ]
+  },
+  {
+    "match_source": "zenodo",
+    "match_id": "10",
+    "name": "Aria Insights",
+    "url": "https://www.therobotreport.com/aria-insights-cyphy-works-shuts-down/",
+    "status": "verified_failure",
+    "confidence": "high",
+    "reviewer": "Codex source-content review",
+    "reviewed_at": "2026-10-30",
+    "scope": "Historical operating venture; not legal-entity dissolution or current trademark status",
+    "summary": "Trade publication reports that Aria Insights, formerly CyPhy Works, had shut down.",
+    "fields": {
+      "shutdown_year": 2019,
+      "city": "Danvers",
+      "country": "United States",
+      "product_description": "Tethered drone technology."
+    },
+    "categories": []
+  },
+  {
+    "match_source": "zenodo",
+    "match_id": "15",
+    "name": "Arrivo",
+    "url": "https://www.theverge.com/2018/12/14/18128848/hyperloop-arrivo-furloughs-layoffs-money-trouble",
+    "status": "verified_failure",
+    "confidence": "high",
+    "reviewer": "Codex source-content review",
+    "reviewed_at": "2026-10-30",
+    "scope": "Historical operating venture; not legal-entity dissolution or current trademark status",
+    "summary": "Reporting based on employees and messages confirms cessation of operations.",
+    "fields": {
+      "shutdown_year": 2018,
+      "founded_year": 2017,
+      "city": "Los Angeles",
+      "country": "United States",
+      "product_description": "High-speed magnetic levitation transportation concept.",
+      "primary_failure_reason": "Employees attributed shutdown to inability to secure new funding."
+    },
+    "categories": [
+      "capital"
+    ]
+  },
+  {
+    "match_source": "zenodo",
+    "match_id": "301",
+    "name": "PlayCafe",
+    "url": "https://venturebeat.com/2009/04/29/10-lessons-from-a-failed-startup/",
+    "status": "verified_failure",
+    "confidence": "high",
+    "reviewer": "Codex source-content review",
+    "reviewed_at": "2026-10-30",
+    "scope": "Historical operating venture; not legal-entity dissolution or current trademark status",
+    "summary": "Founder postmortem discusses the failed PlayCafe venture; Zenodo records closing year 2009.",
+    "fields": {
+      "shutdown_year": 2009,
+      "primary_failure_reason": "Founder identifies marketing as the principal failure.",
+      "lessons_learned": "Measure acquisition costs and obtain marketing expertise early."
+    },
+    "categories": [
+      "acquisition"
+    ]
+  },
+  {
+    "match_source": "zenodo",
+    "match_id": "68",
+    "name": "Vidme",
+    "url": "https://medium.com/vidme/goodbye-for-now-120b40becafa",
+    "status": "acquired",
+    "confidence": "reviewed",
+    "reviewer": "Codex source-content review",
+    "reviewed_at": "2026-10-30",
+    "scope": "Historical operating venture; not legal-entity dissolution or current trademark status",
+    "summary": "Shutdown announcement includes an explicit later update that Vidme was acquired by Giphy.",
+    "fields": {},
+    "categories": []
+  },
+  {
+    "match_source": "zenodo",
+    "match_id": "143",
+    "name": "Take Eat Easy",
+    "url": "https://medium.com/@chloeroose/the-right-words-to-say-goodbye-8a2218b32f92",
+    "status": "candidate",
+    "confidence": "reviewed",
+    "reviewer": "Codex source-content review",
+    "reviewed_at": "2026-10-30",
+    "scope": "Historical operating venture; not legal-entity dissolution or current trademark status",
+    "summary": "Founder discusses restructuring and funding shortfall; this review alone does not establish final legal closure.",
+    "fields": {},
+    "categories": []
+  },
+  {
+    "match_source": "zenodo",
+    "match_id": "223",
+    "name": "Dijiwan",
+    "url": "https://oncletom.io/2014/why-our-startup-failed/",
+    "status": "candidate",
+    "confidence": "reviewed",
+    "reviewer": "Codex source-content review",
+    "reviewed_at": "2026-10-30",
+    "scope": "Historical operating venture; not legal-entity dissolution or current trademark status",
+    "summary": "CTO reports bankruptcy protection in September 2012; legal dissolution not established by this review.",
+    "fields": {},
+    "categories": []
+  },
+  {
+    "match_source": "zenodo",
+    "match_id": "64",
+    "name": "Sansaire",
+    "url": "https://www.geekwire.com/2018/high-tech-cooking-startup-sansaire-shutting-ceasing-production-new-sous-vide-device/",
+    "status": "candidate",
+    "confidence": "reviewed",
+    "reviewer": "Codex source-content review",
+    "reviewed_at": "2026-10-30",
+    "scope": "Historical operating venture; not legal-entity dissolution or current trademark status",
+    "summary": "Report announces a prospective 12-month wind-down; completed closure date requires follow-up.",
+    "fields": {},
+    "categories": []
+  }
+]
