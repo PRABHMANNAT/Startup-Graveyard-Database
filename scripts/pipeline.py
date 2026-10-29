@@ -140,7 +140,7 @@ def build():
         write_exports(status,[r for r in records if r['status']==status])
     write_jsonl(OUT/'assertions.jsonl',claims)
     write_jsonl(OUT/'source_records.jsonl',rows)
-    (OUT/'duplicate_review.json').write_text(json.dumps(duplicates,indent=2,ensure_ascii=False),encoding='utf8')
+    (OUT/'duplicate_review.json').write_text(json.dumps(duplicates,indent=2,ensure_ascii=False),encoding='utf8',newline='\n')
     stats={'target':8000,'unique_entities':len(records),'status_counts':dict(Counter(r['status'] for r in records)),
            'source_rows':dict(Counter(r['source'] for r in rows)),
            'source_entity_counts':{s:sum(s in r['source_ids'] for r in records) for s in ['ideaproof','zenodo','yc']},
@@ -152,16 +152,16 @@ def build():
            'conflicting_entities':sum(bool(r['conflicts']) for r in records),
            'funding':{'canonical_usd_count':0,'reason':'Currency ambiguity; original source amounts retained only in raw records.'},
            'ambiguous_name_groups':len(duplicates)}
-    (OUT/'quality.json').write_text(json.dumps(stats,indent=2,ensure_ascii=False),encoding='utf8')
-    (OUT/'taxonomy.json').write_text(json.dumps(TAXONOMY,indent=2),encoding='utf8')
+    (OUT/'quality.json').write_text(json.dumps(stats,indent=2,ensure_ascii=False),encoding='utf8',newline='\n')
+    (OUT/'taxonomy.json').write_text(json.dumps(TAXONOMY,indent=2),encoding='utf8',newline='\n')
     files=list(RAW.iterdir())+list(OUT.iterdir())
     checks={str(p.relative_to(ROOT)).replace('\\','/'):hashlib.sha256(p.read_bytes()).hexdigest() for p in sorted(files) if p.is_file() and p.name!='checksums.json'}
-    (OUT/'checksums.json').write_text(json.dumps(checks,indent=2),encoding='utf8')
+    (OUT/'checksums.json').write_text(json.dumps(checks,indent=2),encoding='utf8',newline='\n')
     print(json.dumps({k:stats[k] for k in ['unique_entities','status_counts','source_rows']}))
     return records
 
 def write_jsonl(path,rows):
-    path.write_text(''.join(json.dumps(r,ensure_ascii=False,sort_keys=True)+'\n' for r in rows),encoding='utf8')
+    path.write_text(''.join(json.dumps(r,ensure_ascii=True,sort_keys=True)+'\n' for r in rows),encoding='utf8',newline='\n')
 
 def write_exports(name,rows):
     write_jsonl(OUT/(name+'.jsonl'),rows)
@@ -169,7 +169,7 @@ def write_exports(name,rows):
     keys=['id','name','status','confidence']+FIELDS+['source_ids','evidence_urls','failure_categories','verification','conflicts']
     flat=[{k:json.dumps(r[k],ensure_ascii=False,sort_keys=True) if isinstance(r[k],(dict,list)) else r[k] for k in keys} for r in rows]
     with (OUT/(name+'.csv')).open('w',encoding='utf8',newline='') as f:
-        w=csv.DictWriter(f,fieldnames=keys);w.writeheader();w.writerows(flat)
+        w=csv.DictWriter(f,fieldnames=keys,lineterminator='\n');w.writeheader();w.writerows(flat)
     schema=pa.schema([(k,pa.int64() if k in ['founded_year','shutdown_year','funding_usd'] else pa.string()) for k in keys])
     pq.write_table(pa.Table.from_pylist(flat,schema=schema),OUT/(name+'.parquet'),compression='zstd')
 

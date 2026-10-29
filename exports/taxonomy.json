@@ -1,0 +1,14 @@
+{
+  "market_need": "Insufficient demonstrated customer demand or product-market fit.",
+  "unit_economics": "Revenue per customer or order does not cover associated costs.",
+  "capital": "Cash depletion or inability to secure required financing.",
+  "acquisition": "Customer acquisition or distribution does not scale economically.",
+  "competition": "Competitive pressure limits adoption or differentiation.",
+  "technical": "Product engineering, reliability or feasibility problems.",
+  "operations": "Supply chain, manufacturing or service delivery problems.",
+  "team": "Team capability, alignment or management problems.",
+  "governance": "Governance, fraud allegations or financial controls problems.",
+  "regulatory": "Legal or regulatory restrictions impede the business.",
+  "timing": "Market timing or macroeconomic conditions.",
+  "unknown": "No sufficiently reviewed causal evidence."
+}

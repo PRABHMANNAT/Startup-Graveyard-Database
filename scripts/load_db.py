@@ -5,7 +5,8 @@ from psycopg.types.json import Jsonb
 from pipeline import ROOT, OUT, sources
 
 def read(name):
-    return [json.loads(line) for line in (OUT/name).read_text(encoding='utf8').splitlines()]
+    with (OUT/name).open(encoding='utf8') as f:
+        return [json.loads(line) for line in f]
 
 def load():
     with psycopg.connect(os.environ['DATABASE_URL']) as conn:

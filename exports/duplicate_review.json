@@ -1,0 +1,332 @@
+[
+  {
+    "name_key": "apollo",
+    "reason": "country conflict; not merged",
+    "sources": [
+      [
+        "yc",
+        "apollo-2"
+      ],
+      [
+        "yc",
+        "apollo-3"
+      ]
+    ]
+  },
+  {
+    "name_key": "atlas",
+    "reason": "country conflict; not merged",
+    "sources": [
+      [
+        "yc",
+        "atlas"
+      ],
+      [
+        "yc",
+        "atlas-2"
+      ],
+      [
+        "yc",
+        "atlaswork"
+      ]
+    ]
+  },
+  {
+    "name_key": "blaze",
+    "reason": "country conflict; not merged",
+    "sources": [
+      [
+        "yc",
+        "blaze"
+      ],
+      [
+        "yc",
+        "blaze-2"
+      ]
+    ]
+  },
+  {
+    "name_key": "blink",
+    "reason": "country conflict; not merged",
+    "sources": [
+      [
+        "yc",
+        "blink"
+      ],
+      [
+        "yc",
+        "blink-new"
+      ]
+    ]
+  },
+  {
+    "name_key": "convoy",
+    "reason": "country conflict; not merged",
+    "sources": [
+      [
+        "ideaproof",
+        "convoy-freight"
+      ],
+      [
+        "ideaproof",
+        "convoy"
+      ],
+      [
+        "yc",
+        "convoy-2"
+      ]
+    ]
+  },
+  {
+    "name_key": "drip",
+    "reason": "country conflict; not merged",
+    "sources": [
+      [
+        "yc",
+        "drip"
+      ],
+      [
+        "yc",
+        "drippay"
+      ]
+    ]
+  },
+  {
+    "name_key": "fern",
+    "reason": "country conflict; not merged",
+    "sources": [
+      [
+        "yc",
+        "fern"
+      ],
+      [
+        "yc",
+        "fern-bot"
+      ]
+    ]
+  },
+  {
+    "name_key": "flux",
+    "reason": "country conflict; not merged",
+    "sources": [
+      [
+        "ideaproof",
+        "flux-usa"
+      ],
+      [
+        "yc",
+        "flux-2"
+      ]
+    ]
+  },
+  {
+    "name_key": "hera",
+    "reason": "country conflict; not merged",
+    "sources": [
+      [
+        "yc",
+        "hera"
+      ],
+      [
+        "yc",
+        "hera-video"
+      ]
+    ]
+  },
+  {
+    "name_key": "instinct",
+    "reason": "country conflict; not merged",
+    "sources": [
+      [
+        "yc",
+        "instinct"
+      ],
+      [
+        "yc",
+        "instinct-xyz"
+      ]
+    ]
+  },
+  {
+    "name_key": "laminar",
+    "reason": "country conflict; not merged",
+    "sources": [
+      [
+        "yc",
+        "laminar"
+      ],
+      [
+        "yc",
+        "laminar-com"
+      ]
+    ]
+  },
+  {
+    "name_key": "lysto",
+    "reason": "country conflict; not merged",
+    "sources": [
+      [
+        "ideaproof",
+        "lysto"
+      ],
+      [
+        "yc",
+        "lysto"
+      ]
+    ]
+  },
+  {
+    "name_key": "metal",
+    "reason": "country conflict; not merged",
+    "sources": [
+      [
+        "yc",
+        "metal"
+      ],
+      [
+        "yc",
+        "metal-2"
+      ]
+    ]
+  },
+  {
+    "name_key": "mono",
+    "reason": "country conflict; not merged",
+    "sources": [
+      [
+        "yc",
+        "mono"
+      ],
+      [
+        "yc",
+        "mono-2"
+      ]
+    ]
+  },
+  {
+    "name_key": "nexus",
+    "reason": "country conflict; not merged",
+    "sources": [
+      [
+        "yc",
+        "gpt"
+      ],
+      [
+        "yc",
+        "nexus"
+      ]
+    ]
+  },
+  {
+    "name_key": "origami",
+    "reason": "country conflict; not merged",
+    "sources": [
+      [
+        "ideaproof",
+        "origami-japan"
+      ],
+      [
+        "yc",
+        "origami-2"
+      ]
+    ]
+  },
+  {
+    "name_key": "phoenix",
+    "reason": "country conflict; not merged",
+    "sources": [
+      [
+        "ideaproof",
+        "phoenix"
+      ],
+      [
+        "yc",
+        "phoenix"
+      ]
+    ]
+  },
+  {
+    "name_key": "prism",
+    "reason": "country conflict; not merged",
+    "sources": [
+      [
+        "yc",
+        "prism"
+      ],
+      [
+        "yc",
+        "tryprism"
+      ]
+    ]
+  },
+  {
+    "name_key": "pylon",
+    "reason": "country conflict; not merged",
+    "sources": [
+      [
+        "yc",
+        "pylon"
+      ],
+      [
+        "yc",
+        "pylon-2"
+      ]
+    ]
+  },
+  {
+    "name_key": "shoesofprey",
+    "reason": "country conflict; not merged",
+    "sources": [
+      [
+        "ideaproof",
+        "shoes-of-prey"
+      ],
+      [
+        "zenodo",
+        "11"
+      ]
+    ]
+  },
+  {
+    "name_key": "takeeateasy",
+    "reason": "country conflict; not merged",
+    "sources": [
+      [
+        "ideaproof",
+        "take-eat-easy"
+      ],
+      [
+        "zenodo",
+        "143"
+      ]
+    ]
+  },
+  {
+    "name_key": "tilt",
+    "reason": "country conflict; not merged",
+    "sources": [
+      [
+        "ideaproof",
+        "tilt"
+      ],
+      [
+        "yc",
+        "tilt-2"
+      ]
+    ]
+  },
+  {
+    "name_key": "wattage",
+    "reason": "country conflict; not merged",
+    "sources": [
+      [
+        "ideaproof",
+        "wattage"
+      ],
+      [
+        "zenodo",
+        "184"
+      ]
+    ]
+  }
+]
